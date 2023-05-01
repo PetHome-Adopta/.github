@@ -1,5 +1,3 @@
-## Hi there 👋
-
 GUÍA DE COMMITS
 
 fix: fix adoption button
